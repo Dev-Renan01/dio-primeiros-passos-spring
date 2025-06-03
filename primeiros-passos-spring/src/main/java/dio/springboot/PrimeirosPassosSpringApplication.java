@@ -9,6 +9,6 @@ public class PrimeirosPassosSpringApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(PrimeirosPassosSpringApplication.class, args);
-		System.out.println("Projeto criado!");
+
 	}
 }
